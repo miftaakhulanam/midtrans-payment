@@ -108,7 +108,7 @@
         <a href="/chat/" class="cursor-pointer flex justify-end">
             <span class="fixed z-30 flex h-16 w-16 bottom-8 right-8 justify-items-end">
                 <span
-                    class="animate-ping absolute inline-flex h-full w-full rounded-full bg-fuchsia-400 opacity-75"></span>
+                    class="animate-ping-slow absolute inline-flex h-full w-full rounded-full bg-fuchsia-400 opacity-75"></span>
                 <span
                     class="relative inline-flex justify-center items-center rounded-full h-16 w-16 bg-fuchsia-500 hover:bg-fuchsia-700 duration-300">
                     <svg xmlns="http://www.w3.org/2000/svg" class="fill-white h-7 w-7"
